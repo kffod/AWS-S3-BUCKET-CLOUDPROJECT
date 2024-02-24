@@ -33,7 +33,7 @@ Welcome to the cloud adventure! This project is all about taking your static web
 - Open your web browser like a virtual telescope and behold your website shining in the digital sky.
 
 ## Deleting Your AWS Campsite
-[Delete S3](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step7-Delete%20S3%20Bucket)
+[Delete S3](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/75006e3319b0f53a59943b0b0c483b1ca7b8bf02/Step7-Delete%20S3%20Bucket)
 
 ### 1. Safely Pack Up Your Tent
 - Before deleting, make sure your website files are safely backed up.
