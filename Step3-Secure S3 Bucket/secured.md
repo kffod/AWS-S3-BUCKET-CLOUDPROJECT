@@ -4,11 +4,11 @@
 
 - Click on the `Permissions` tab
 
-![S3 Permissions Before](Step3-Secure%20S3%20Bucket/perm.png)
+![S3 Permissions Before](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/cab70b30954421595e4b3c138b768d7f2a0f94f2/Step3-Secure%20S3%20Bucket/perm.png)
 
 
 - The "Bucket Policy" section shows it is empty. Click on the Edit button
-- ![S3 Permissions Before](Step3-Secure%20S3%20Bucket/bucketpolicy1.png)
+- ![S3 Permissions Before](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/cab70b30954421595e4b3c138b768d7f2a0f94f2/Step3-Secure%20S3%20Bucket/bucketpolicy1.png)
 
 
 - Enter the following bucket policy replacing `my-website-bucket-123456789123` with the name of your bucket and click "Save"
@@ -30,9 +30,9 @@
 
 You will see warnings about making your bucket public, but **this step is required for static website hosting**
 
-![S3 Permissions Before](Step3-Secure%20S3%20Bucket/bucketpolicy.png)
+![S3 Permissions Before](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/cab70b30954421595e4b3c138b768d7f2a0f94f2/Step3-Secure%20S3%20Bucket/bucketpolicy.png)
 
-![S3 Permissions Before](Step3-Secure%20S3%20Bucket/donepolicy.png)
+![S3 Permissions Before](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/cab70b30954421595e4b3c138b768d7f2a0f94f2/Step3-Secure%20S3%20Bucket/donepolicy.png)
 
 
 ## Footnote
