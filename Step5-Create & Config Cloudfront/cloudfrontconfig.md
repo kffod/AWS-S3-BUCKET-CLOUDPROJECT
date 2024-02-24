@@ -24,6 +24,6 @@
   ![create step 5](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/7bdefebc80c5b946dab3953914306c04cfcb4498/Step5-Create%20%26%20Config%20Cloudfront/cfd.png)
   _Note_ - Remember, as soon as your CloudFront distribution is Deployed, it attaches to S3 and starts caching the S3 pages. CloudFront may take 10-30 minutes (or more) to cache the S3 page. Once the caching is complete, the CloudFront domain name URL will stop redirecting to the S3 object URL
 
-- In this example, the Domain Name value is `asshowninimagebelow.cloudfront.net`, but yours will be different.
+- In this example, the Domain Name value is `d826ux1r5av67.cloudfront.net`, but yours will be different.
 
   ![New Distribution](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/blob/7bdefebc80c5b946dab3953914306c04cfcb4498/Step5-Create%20%26%20Config%20Cloudfront/cfdash.png)
