@@ -11,22 +11,29 @@ Welcome to the cloud adventure! This project is all about taking your static web
 ## Adventure Plan
 
 ### 1. Create Your AWS Campsite
+[Create Bucket](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step1-Create%20S3%20Bucket)
+[Upload Files](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step2-upload%20files%20S3)
 - Start by creating a public S3 bucket, your digital camping ground.
 - Upload your website files into the bucket, like setting up your tent.
 
 ### 2. Secure Your Campsite with IAM Rangers
+[Secure Bucket](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step3-Secure%20S3%20Bucket)
+[Config Policies](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step4-Config%20Bucket%20Permission)
 - Configure the S3 bucket for secure website hosting.
 - Meet the IAM (Identity and Access Management) rangers to control access.
 
 ### 3. Light Up the Sky with CloudFront Fireworks
+[Config CloudFront](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step5-Create%20%26%20Config%20Cloudfront)
 - Enter CloudFront, the firework show of AWS.
 - Create a CloudFront distribution, connecting it to your S3 bucket – the grand finale.
 
 ### 4. Enjoy the Starry Night at Your CloudFront Campsite
+[View Endpoint](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step6-Access%20Endpoint)
 - Once CloudFront works its magic, get a unique CloudFront endpoint.
 - Open your web browser like a virtual telescope and behold your website shining in the digital sky.
 
 ## Deleting Your AWS Campsite
+[Delete S3](https://github.com/kffod/AWS-S3-BUCKET-CLOUDPROJECT/tree/a3450c8fd69987cc016c880ebd3e9693799a97a6/Step7-Delete%20S3%20Bucket)
 
 ### 1. Safely Pack Up Your Tent
 - Before deleting, make sure your website files are safely backed up.
@@ -66,4 +73,3 @@ Welcome to the cloud adventure! This project is all about taking your static web
 - Open your web browser, enter the endpoint, and marvel at your website in the digital starry night.
 
 Remember, every adventure has its challenges, so ensure you test and tweak to make your website shine brightly in the AWS sky. Happy cloud adventures! 🚀✨
-
